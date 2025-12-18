@@ -35,7 +35,18 @@
   <a href="https://www.linkedin.com/in/sithum-ridmal-2a19802a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
+---
+
+## 🧩 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/Ap9H090CVy/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F9F9F9?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  </a>
 </p>
+
+
 
 ---
 
